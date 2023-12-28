@@ -1,17 +1,15 @@
 public class Main{
     public static void main(String[] args){
-        int ciao;
-        char boh;
-
-
+        int buongiorno;
+        char buonasera;
     }
 }
 
-class test{
+class test10{
     public static void function(){
         
     }
 }
-class test2{
+class test11{
 
 }
