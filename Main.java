@@ -8,8 +8,10 @@ public class Main{
 }
 
 class test{
-
+    public static void function(){
+        
+    }
 }
 class test2{
-    
+
 }
