@@ -1,7 +1,9 @@
 public class Main{
     public static void main(String[] args){
-        int buongiorno;
+        int buonaserraaaaa;
         char buonasera;
+
+        hahahaha
     }
 }
 
@@ -11,5 +13,8 @@ class test10{
     }
 }
 class test11{
-
+testestest
+}
+class test12{
+    
 }
